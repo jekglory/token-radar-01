@@ -1,5 +1,9 @@
 # Token Radar
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/jekglory/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/jekglory/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 A token launch radar for make.fun's `token-radar-01` bounty ($1,325).
 
 It reads a sealed DefiLlama snapshot (758 protocols, 2026-11-14), finds the protocols
@@ -35,3 +39,8 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts --input <snapshot.json>
 Node 22+, standard library only. The dashboard in `dashboard/` is a static page
 with no network: open `out/dashboard/index.html` after a run. Screenshots live
 in `screenshots/`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=wkrc9se2&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
+
